@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @princ3Cr0w
 - 👀 I’m interested in data analysis and data engineering
 - 🌱 I’m currently learning data viz, sql, R, and analysis
+- 💹 Currently using Tableau for data viz and BigQuery for SQL analysis
 - 💞️ I’m looking to collaborate on data sets for analysis
-- 📫 How to reach me HERE
+- 📫 How to reach me www.linkedin.com/in/marc-n-525b82169
 - ⚡ Fun fact: avid learner with many interests!
 
 <!---
