@@ -6,17 +6,17 @@
 📈 My expertise lies in data visualization, statistical analysis, and predictive modeling to drive informed decision-making.
 
 🧰 Tools I'm proficient in:
-- R [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
+-  [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
 
-- SQL [![SQL](https://img.shields.io/badge/-SQL-9cf?style=flat-square&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+-  [![SQL](https://img.shields.io/badge/-SQL-9cf?style=flat-square&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
-- Excel [![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=Microsoft%20Excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+-  [![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=Microsoft%20Excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
-- Google Sheet [![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-brightgreen?style=flat-square&logo=Google%20Sheets&logoColor=white)](https://www.google.com/sheets/about/)
+-  [![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-brightgreen?style=flat-square&logo=Google%20Sheets&logoColor=white)](https://www.google.com/sheets/about/)
 
-- Tableau [![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/)
+-  [![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 
-- Power BI [![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/)
+-  [![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/)
 
 
 📚 Always learning and exploring new techniques to enhance data analysis and storytelling.
