@@ -17,5 +17,5 @@
 
 🚀 Let's connect and collaborate on exciting data projects!
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](www.linkedin.com/in/marc-n-525b82169)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marc-n-525b82169)](www.linkedin.com/in/marc-n-525b82169)
 
