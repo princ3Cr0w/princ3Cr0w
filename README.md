@@ -18,6 +18,7 @@
 
 -  [![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/)
 
+<sup>*See what I did there?</sup>
 
 📚 Always learning and exploring new techniques to enhance data analysis and storytelling.
 
