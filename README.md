@@ -5,7 +5,7 @@
 
 📈 My expertise lies in data visualization, statistical analysis, and data modeling to drive informed decision-making.
 
-🧰 Tools I'm proficient in:
+🧰 Tools I currently use:
 -  [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
 
 -  [![SQL](https://img.shields.io/badge/-SQL-9cf?style=flat-square&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
