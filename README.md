@@ -3,7 +3,7 @@
 
 🔍 I'm passionate about uncovering insights from data and transforming them into actionable strategies. 
 
-📈 My expertise lies in data visualization, statistical analysis, and data modeling to drive informed decision-making.
+📈 My skills consists of data visualization, statistical analysis, and data modeling to drive informed decision-making.
 
 🧰 Tools I currently use:
 -  [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
